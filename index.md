@@ -1,4 +1,4 @@
-# Julie Deeke
+## Julie Deeke
 
 I am a Teaching Assistant Professor in the Statistics Department at the University of Illinois, Urbana-Champaign.
 
