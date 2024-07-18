@@ -1,7 +1,7 @@
 # jdeeke.github.io
 
 remaining to dos:
-- add headshot to website
+- resize headshot
 - add favicon
 - remove header
 - remove footer
