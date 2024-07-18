@@ -8,8 +8,8 @@ I specialize in teaching large, applied courses, including Data Science Explorat
 
 jdeeke [at] illinois [dot] edu
 
-703 S. Wright St, 3rd Floor, Room 44 
-Champaign, IL
+703 S. Wright St, Room 44, 
+Champaign, IL 61820
 
 she/her/hers
 
