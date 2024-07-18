@@ -2,7 +2,6 @@
 
 remaining to dos:
 - resize/reshape headshot
-- figure out how to add a favicon
 - check for any other css updates (or color update for link/make bold)
 - upload CV
 - upload teaching statement

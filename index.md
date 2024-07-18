@@ -21,7 +21,7 @@ CV
 
 teaching statement
 
-[Data Science Exploration (Stat 207)](http://catalog.illinois.edu/courses-of-instruction/stat/): Summarizing, Generalizing, and Predicting is a 4 credit hour course.  For students, this course includes 150-160 minutes of lecture and 80 minutes of lab each week.  Tori Ellison and I have designed and published a free [website with our course content](https://exploration.stat.illinois.edu).  Check it out!  I am regularly innovating and refining the course, including adding new activities to lecture and incorporating interesting data sets to labs, homework assignments, and projects.
+[Data Science Exploration (Stat 207)](http://catalog.illinois.edu/courses-of-instruction/stat/): Summarizing, Generalizing, and Predicting is a 4 credit hour course.  For students, this course includes 150-160 minutes of lecture and 80 minutes of lab each week.  [Tori Ellison](https://tori-ellison.com/) and I have designed and published a free [website with our course content](https://exploration.stat.illinois.edu).  Check it out!  I am regularly innovating and refining the course, including adding new activities to lecture and incorporating interesting data sets to labs, homework assignments, and projects.
 
 [Methods of Applied Statistics (Stat 420/ASRM 450)](http://catalog.illinois.edu/courses-of-instruction/stat/) is an upper-level course, primarily attracting statistics minors and graduate students from other disciplines.  We focus on fitting and applying linear models to data, along with interpreting the results and the implications for the underlying context.  We use my interactive lecture notes along with [Applied Statistics with R](https://book.stat420.org/), an e-book by [David Dalpiaz](https://daviddalpiaz.org/) for the course.
 
