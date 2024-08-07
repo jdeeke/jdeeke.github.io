@@ -2,8 +2,6 @@
 
 ![picture of Julie Deeke](statswpy_headshots_2018_006.jpg)
 
-<img src=https://jdeeke.github.io/statswpy_headshots_2018_006.jpg", width="100">
-
 I am a [Teaching Assistant Professor](https://stat.illinois.edu/directory/profile/jdeeke) in the Department of Statistics at the University of Illinois, Urbana-Champaign.
 
 As an educator, I provide my students with authentic experiences working with and analyzing data, building skills and gaining experience with tools in the process that can be applied to new problems.
