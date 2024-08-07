@@ -1,6 +1,6 @@
 # Julie Deeke
 
-![picture of Julie Deeke](statswpy_headshots_2018_006.jpg)
+![picture of Julie Deeke](statswpy_headshots_2018_006.jpg | width=100)
 
 I am a [Teaching Assistant Professor](https://stat.illinois.edu/directory/profile/jdeeke) in the Department of Statistics at the University of Illinois, Urbana-Champaign.
 
