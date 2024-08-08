@@ -1,6 +1,6 @@
 # Julie Deeke
 
-<img src="https://jdeeke.github.io/statswpy_headshots_2018_006.jpg" width="350" alt="picture of Julie Deeke" style="border-radius:50%">
+<img src="https://jdeeke.github.io/statswpy_headshots_2018_006.jpg" width="280" alt="picture of Julie Deeke" style="border-radius:50%">
 
 I am a [Teaching Assistant Professor](https://stat.illinois.edu/directory/profile/jdeeke) in the Department of Statistics at the University of Illinois, Urbana-Champaign.
 
