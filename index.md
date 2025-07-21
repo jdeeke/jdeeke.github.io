@@ -28,6 +28,7 @@ she/her/hers
 Most of my recent scholarly activity has resulted in workshops, breakout sessions, and presentations related to the development of data science education, graduate teacher development, and the effects of student choice on course performance and student perception.  Below, you can find material related to recent presentations.
 
 1. data science education
+- [Three Demonstrations that Build Intuition for Hypothesis Test Properties](https://www.causeweb.org/cause/uscots/uscots25/program/posters/poster35)
 - [Building Cohesive Values and Learning Goals for a Sequence of Core Data Science Courses](https://tinyurl.com/ecots24ds)
 - [Helping Students Select an Appropriate Analysis Technique in a Second Course in Data Science](https://www.causeweb.org/cause/ecots/ecots24/program/posters/28)
 - [Framing and Broadening Understanding of Research Norms in a Second Course in Data Science](https://www.causeweb.org/cause/ecots/ecots24/program/posters/59)
