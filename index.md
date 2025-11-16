@@ -4,7 +4,7 @@
 
 I am a [Teaching Assistant Professor](https://stat.illinois.edu/directory/profile/jdeeke) in the Department of Statistics at the University of Illinois, Urbana-Champaign.
 
-As an educator, I provide my students with authentic experiences working with and analyzing data, building skills and gaining experience with tools in the process that can be applied to new problems.
+As an educator, I provide my students with authentic experiences working with and analyzing data.  Students build skills and gain experience with tools, so that students can apply their skills and knowledge to new problems.
 
 I specialize in teaching large, applied courses, including Data Science Exploration (Stat 207, a second course in data science) and Methods of Applied Statistics (Stat 420/ASRM 450, an upper-level applied regression course).  My scholarly interests include statistics and data science education, graduate student teaching development, instructional technology, and pedagogy for large courses.
 
@@ -19,7 +19,7 @@ she/her/hers
 
 ## teaching:
 
-[Data Science Exploration (Stat 207)](http://catalog.illinois.edu/courses-of-instruction/stat/): Summarizing, Generalizing, and Predicting is a 4 credit hour course.  For students, this course includes 150-160 minutes of lecture and 80 minutes of lab each week.  [Tori Ellison](https://tori-ellison.com/) and I have designed and published a free [website with our course content](https://exploration.stat.illinois.edu).  Check it out!  I am regularly innovating and refining the course, including adding new activities to lecture and incorporating interesting data sets to labs, homework assignments, and projects.
+[Data Science Exploration (Stat 207)](http://catalog.illinois.edu/courses-of-instruction/stat/): Summarizing, Generalizing, and Predicting is a 4 credit hour course.  For students, this course includes 150-160 minutes of lecture and 80 minutes of lab each week.  Together with [Tori Ellison](https://tori-ellison.com/), I have designed and published a free [website with our course content](https://exploration.stat.illinois.edu).  Check it out!  I am regularly innovating and refining the course, including adding new activities to lecture and incorporating interesting data sets to labs, homework assignments, and projects.  This course recently enrolls more than 400 students per semester, and a substantial portion of teaching this course includes supervising and developing a course team of around 30 graduate and undergraduate teaching assistants.
 
 [Methods of Applied Statistics (Stat 420/ASRM 450)](http://catalog.illinois.edu/courses-of-instruction/stat/) is an upper-level course, primarily attracting statistics minors and graduate students from other disciplines.  We focus on fitting and applying linear models to data, along with interpreting the results and the implications for the underlying context.  We use my interactive lecture notes along with [Applied Statistics with R](https://book.stat420.org/), an e-book by [David Dalpiaz](https://daviddalpiaz.org/) for the course. 
 
