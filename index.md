@@ -2,7 +2,7 @@
 
 <img src="https://jdeeke.github.io/statswpy_headshots_2018_006.jpg" width="300" alt="picture of Julie Deeke" style="border-radius:50%">
 
-I am a [Teaching Assistant Professor](https://stat.illinois.edu/directory/profile/jdeeke) in the Department of Statistics at the University of Illinois, Urbana-Champaign.
+I am a [Teaching Associate Professor](https://stat.illinois.edu/directory/profile/jdeeke) in the Department of Statistics at the University of Illinois, Urbana-Champaign.
 
 As an educator, I provide my students with authentic experiences working with and analyzing data.  Students build skills and gain experience with tools, so that students can apply their skills and knowledge to new problems.
 
@@ -25,7 +25,7 @@ she/her/hers
 
 ## presentations:
 
-Most of my recent scholarly activity has resulted in workshops, breakout sessions, and presentations related to the development of data science education, graduate teacher development, and the effects of student choice on course performance and student perception.  Below, you can find material related to recent presentations.
+Most of my recent scholarly activity has resulted in workshops, breakout sessions, and presentations related to the development of data science education, graduate teacher development, and the students' use of technology and tools on student perceptions and agency.  Below, you can find material related to recent presentations.
 
 1. data science education
 - [Three Demonstrations that Build Intuition for Hypothesis Test Properties](https://www.causeweb.org/cause/uscots/uscots25/program/posters/poster35)
@@ -35,7 +35,8 @@ Most of my recent scholarly activity has resulted in workshops, breakout session
 2. graduate teacher development
 - [Supporting professional development through teaching assistantships](https://www.causeweb.org/cause/uscots/uscots23/3g-supporting-professional-development-through-teaching-assistantships-room-112)
 - [Creating a Culture for Growth in TA Training](https://meetings.ams.org/math/spring2022w/meetingapp.cgi/Paper/14282)
-3. student choice
+3. students' use of tools
+- [Homework 0: Demonstrating Limitations and Practical Considerations for Using AI as a Course Tool](https://www.causeweb.org/cause/ecots/ecots26/program/posters/31)
 - [Promoting Student Choice in Initial Interactions with Pre-Recorded Lecture Material](https://www.causeweb.org/cause/uscots/uscots21/we-12-promoting-student-choice-initial-interactions-pre-recorded-lecture-material)
 
 ## graduate student teaching development:
