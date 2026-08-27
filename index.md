@@ -15,7 +15,7 @@ Champaign, IL 61820
 
 she/her/hers
 
-[CV](./Deeke_CV_24.pdf)
+[CV](./Deeke_CV_26.pdf)
 
 ## teaching:
 
